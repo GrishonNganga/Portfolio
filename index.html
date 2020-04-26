@@ -8,13 +8,13 @@
     <link rel="stylesheet" media="screen and (min-width: 600px)" href="css/big-screen.css">
 </head>
 <body>
-    <div class="nav">
+    <div class="nav" id="nav">
         <img id="home" src="images/GG.jpg" alt="GG home icon">
         <img id="menu" src="images/ham.jpg" alt="Menu">
         <ul id="navig">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Projects</a></li>
+            <li><a href="#nav">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
         </ul>
     </div>
     <div class="mid">
@@ -22,12 +22,12 @@
             As a <strong>minimalist</strong>, I believe in doing <strong>more</strong> with <strong>less</strong>.
         </p>
         <img src="images/down.jpg" alt="next page">
-        <p class="title">About</p>
+        <p class="title" id="about">About</p>
     </div>
     <div class="about">
         <div class="about-self">
             <div class="me">
-                <img src="images/grish.jpg" alt="Grishon Ng'ang'a"> <p><span id="name">Grishon Ng'ang'a </span> <br> <br> <span id="desc">Software Engineer with a touch of minimalism.</span></p>
+                <img src="images/grish.jpg" alt="Grishon Ng'ang'a"> <p><span id="name">Grishon Ng'ang'a </span> <br> <br> <span id="desc">I love cameras, code and white tees. Minimalist in life and living. Entrepreneur and family man.</span></p>
             </div>
         </div>
         <div class="about-exp">
@@ -43,14 +43,19 @@
     <div>
         <p id="p-title" class="title">Projects</p>
     </div>
-    <div class="projects">
+    <div class="projects" id="projects">
         <div class="project">
-            <img src="images/symphony.png" alt="Symphony"><p><span id="p-name">Symphony </span> <br> <br> <span id="p-desc">A community connected through music quotes.</span></p>
+            <a href="https://github.com/GrishonNganga/Symphony.github.io">
+                <img src="images/symphony.png" alt="Symphony"><p><span id="p-name">Symphony </span> <br> <br> <span id="p-desc">A community connected through music quotes.</span></p>
+                </a>
         </div>
         <div class="project">
+            <a href="https://github.com/GrishonNganga/JuaKenya.github.io">
             <img src="images/juakenya.jpg" alt="JuaKenya"><p><span id="p-name">JuaKenya </span> <br> <br> <span id="p-desc">Your one stop shop for all your travel expeditions.</span></p>
+            </a>
         </div>
         <div class="project">
+            <a href="https://github.com/GrishonNganga/Hotel-Diablo">
             <img src="images/resort.jpg" alt="Hotel Diablo"><p><span id="p-name">Hotel Diablo </span> <br> <br> <span id="p-desc">Website for Hotel Diablo.</span></p>
         </div>
     </div>
