@@ -3,6 +3,10 @@
 #### By **Grishon Ng'ang'a**
 ## Description
 This is my central hub for showing my skills and what I have been able to achieve in my journey in tech. 
+## Screenshots
+![Mobile Screenshot 1](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%201.PNG)
+![Mobile Screenshot 2](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%202.PNG)
+![Mobile Screenshot 3](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%203.PNG)
 ## Setup/Installation Requirements
 * Follow the link in the description section to have a looksie.
 ## Technologies Used
