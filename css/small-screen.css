@@ -7,6 +7,9 @@
 #navig{
     display: none;
 }
+.title{
+    display: none;
+}
 #menu{
     width: 10%;
     float: right;
