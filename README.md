@@ -7,8 +7,8 @@ This is my central hub for showing my skills and what I have been able to achiev
 ![Mobile Screenshot 1](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%201.PNG)
 ![Mobile Screenshot 2](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%202.PNG)
 ![Mobile Screenshot 3](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%203.PNG)
-![Mobile Screenshot 3](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%204.PNG)
-![Mobile Screenshot 3](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%205.PNG)
+![Mobile Screenshot 4](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%204.PNG)
+![Mobile Screenshot 5](https://github.com/GrishonNganga/Portfolio/blob/master/images/grishon%205.PNG)
 ## Setup/Installation Requirements
 * Follow the link in the description section to have a looksie.
 ## Technologies Used
