@@ -56,7 +56,7 @@
 .project{
     display: flex;
 }
-.projects img{
+.projects img{ 
     width: 30%;
     margin-left: 5%;
     margin-bottom: 5%;
@@ -68,7 +68,7 @@ footer p{
     font-size: 20px;
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: #000000;
     padding-top: 10%;
     padding-bottom: 10%;
 }
