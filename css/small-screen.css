@@ -4,6 +4,9 @@
 .nav{
     position: sticky;
 }
+#navig{
+    display: none;
+}
 #menu{
     width: 10%;
     float: right;
